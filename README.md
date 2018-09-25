@@ -1,6 +1,6 @@
 ## 2018, Akshaya Rane 
 
-# Task: Build a recommender system to predict a book that a user is most likely to purchase next.
+## Build a recommender system to predict a book that a user is most likely to purchase next.
  
 
 Files:
